@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Face Detector</string>
+    <string name="face_found">Face Found \nTap anywhere to detect again</string>
+</resources>
